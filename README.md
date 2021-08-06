@@ -3,7 +3,7 @@ a BATCH ( .bat ) file that can crash , lag or freezes your Windows PC & Laptop w
  
 # Screenshots:
 
-<img src="./shots/file.jpg" /> 
+<img src="./shots/file.png" /> 
  
 
 # Note:
