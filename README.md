@@ -22,7 +22,7 @@ a BATCH ( .bat ) file that can crash , lag or freezes your Windows PC & Laptop w
  GOTO top
 ``` 
 # What OS can run it:
-- Actually Only ** Windows ** and i can say we can run it in an ** Windows Vista ** and highter
+- Actually Only **Windows** and i can say we can run it in an **Windows Vista** and highter
 
 # Why the repo named:
 - Idk , .exe is a common filename extension denoting an executable file for Windows and for our community it's creepy things lol
